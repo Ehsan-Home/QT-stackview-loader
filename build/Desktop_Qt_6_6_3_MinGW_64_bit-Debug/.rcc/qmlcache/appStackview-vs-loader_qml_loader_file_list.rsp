@@ -1,0 +1,9 @@
+--resource
+C:/Users/ehsan/OneDrive/Desktop/Work/Learnings/QT/Stackview-vs-loader/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/.rcc/qmake_Stackview-vs-loader.qrc
+--resource
+C:/Users/ehsan/OneDrive/Desktop/Work/Learnings/QT/Stackview-vs-loader/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/.rcc/appStackview-vs-loader_raw_qml_0.qrc
+/Stackview-vs-loader/Main.qml
+/Stackview-vs-loader/AvsStackView.qml
+/Stackview-vs-loader/PageTwo.qml
+/Stackview-vs-loader/PageOne.qml
+/Stackview-vs-loader/NewPage.qml

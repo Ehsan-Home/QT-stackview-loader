@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-9efa302ef542f0f12f93.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Stackview-vs-loader",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-d7eefa39b4558d407850.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-bb6b415622d3733ec440.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-3e336a52603fe6125f34.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-96448e70710c35c10015.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appStackview-vs-loader::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appStackview-vs-loader-Debug-0022087278cfe853e624.json",
+					"name" : "appStackview-vs-loader",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appStackview-vs-loader_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appStackview-vs-loader_autogen-Debug-baf7274e42ff2ff73afd.json",
+					"name" : "appStackview-vs-loader_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appStackview-vs-loader_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appStackview-vs-loader_autogen_timestamp_deps-Debug-9441e7e501b60ddbe0d6.json",
+					"name" : "appStackview-vs-loader_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appStackview-vs-loader_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appStackview-vs-loader_qmlimportscan-Debug-60439e2a65800e4b9233.json",
+					"name" : "appStackview-vs-loader_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appStackview-vs-loader_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appStackview-vs-loader_qmllint-Debug-23576ee534e325f9d0b7.json",
+					"name" : "appStackview-vs-loader_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appStackview-vs-loader_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appStackview-vs-loader_qmllint_json-Debug-d4fa1822c7741a1c5403.json",
+					"name" : "appStackview-vs-loader_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appStackview-vs-loader_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appStackview-vs-loader_qmllint_module-Debug-cf23c47290ad9b8cc155.json",
+					"name" : "appStackview-vs-loader_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appStackview-vs-loader_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appStackview-vs-loader_qmltyperegistration-Debug-0bf84812e1e4e5e24e9e.json",
+					"name" : "appStackview-vs-loader_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appStackview-vs-loader_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appStackview-vs-loader_tooling-Debug-97acbcc6fcdb902b6be0.json",
+					"name" : "appStackview-vs-loader_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/ehsan/OneDrive/Desktop/Work/Learnings/QT/Stackview-vs-loader/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug",
+		"source" : "C:/Users/ehsan/OneDrive/Desktop/Work/Learnings/QT/Stackview-vs-loader"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

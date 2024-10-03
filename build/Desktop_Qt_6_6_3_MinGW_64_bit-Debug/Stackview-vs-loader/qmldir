@@ -1,0 +1,9 @@
+module Stackview-vs-loader
+typeinfo appStackview-vs-loader.qmltypes
+prefer :/Stackview-vs-loader/
+Main 1.0 Main.qml
+AvsStackView 1.0 AvsStackView.qml
+PageTwo 1.0 PageTwo.qml
+PageOne 1.0 PageOne.qml
+NewPage 1.0 NewPage.qml
+

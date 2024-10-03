@@ -1,0 +1,14 @@
+-rootPath
+C:/Users/ehsan/OneDrive/Desktop/Work/Learnings/QT/Stackview-vs-loader
+-cmake-output
+-output-file
+C:/Users/ehsan/OneDrive/Desktop/Work/Learnings/QT/Stackview-vs-loader/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appStackview-vs-loader.cmake
+-importPath
+C:/Users/ehsan/OneDrive/Desktop/Work/Learnings/QT/Stackview-vs-loader/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/Stackview-vs-loader
+-importPath
+C:/Users/ehsan/OneDrive/Desktop/Work/Learnings/QT/Stackview-vs-loader/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug
+-importPath
+C:/Qt/6.6.3/mingw_64/./qml
+-qrcFiles
+C:/Users/ehsan/OneDrive/Desktop/Work/Learnings/QT/Stackview-vs-loader/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/.rcc/qmake_Stackview-vs-loader.qrc
+C:/Users/ehsan/OneDrive/Desktop/Work/Learnings/QT/Stackview-vs-loader/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/.rcc/appStackview-vs-loader_raw_qml_0.qrc

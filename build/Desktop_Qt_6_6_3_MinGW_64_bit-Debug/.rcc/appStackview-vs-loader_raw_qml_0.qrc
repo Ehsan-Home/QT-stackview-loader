@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="/Stackview-vs-loader/">
+    <file alias="Main.qml">C:/Users/ehsan/OneDrive/Desktop/Work/Learnings/QT/Stackview-vs-loader/Main.qml</file>
+    <file alias="AvsStackView.qml">C:/Users/ehsan/OneDrive/Desktop/Work/Learnings/QT/Stackview-vs-loader/AvsStackView.qml</file>
+    <file alias="PageTwo.qml">C:/Users/ehsan/OneDrive/Desktop/Work/Learnings/QT/Stackview-vs-loader/PageTwo.qml</file>
+    <file alias="PageOne.qml">C:/Users/ehsan/OneDrive/Desktop/Work/Learnings/QT/Stackview-vs-loader/PageOne.qml</file>
+    <file alias="NewPage.qml">C:/Users/ehsan/OneDrive/Desktop/Work/Learnings/QT/Stackview-vs-loader/NewPage.qml</file>
+  </qresource>
+</RCC>
+
